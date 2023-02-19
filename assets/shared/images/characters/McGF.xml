@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="McGF.png">
+<SubTexture name="GF Dancing Beat0000" x="1262" y="504" width="313" height="503" frameX="-52" frameY="-13" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0001" x="0" y="1013" width="313" height="503" frameX="-52" frameY="-13" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0002" x="313" y="1013" width="312" height="503" frameX="-50" frameY="-13" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0003" x="326" y="0" width="312" height="506" frameX="-53" frameY="-10" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0004" x="638" y="0" width="312" height="506" frameX="-53" frameY="-10" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0005" x="950" y="0" width="312" height="506" frameX="-53" frameY="-10" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0006" x="0" y="507" width="313" height="506" frameX="-56" frameY="-10" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0007" x="625" y="1013" width="336" height="503" frameX="-35" frameY="-13" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0008" x="625" y="1013" width="336" height="503" frameX="-35" frameY="-13" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0009" x="625" y="1013" width="336" height="503" frameX="-35" frameY="-13" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0010" x="961" y="1013" width="339" height="502" frameX="-35" frameY="-14" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0011" x="961" y="1013" width="339" height="502" frameX="-35" frameY="-14" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0012" x="961" y="1013" width="339" height="502" frameX="-35" frameY="-14" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0013" x="1584" y="0" width="345" height="501" frameX="-31" frameY="-15" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0014" x="1584" y="0" width="345" height="501" frameX="-31" frameY="-15" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0015" x="686" y="1516" width="349" height="496" frameX="-59" frameY="-20" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0016" x="1035" y="1516" width="349" height="496" frameX="-59" frameY="-20" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0017" x="0" y="1516" width="343" height="497" frameX="-67" frameY="-19" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0018" x="343" y="1516" width="343" height="497" frameX="-67" frameY="-19" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0019" x="1929" y="0" width="335" height="498" frameX="-69" frameY="-18" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0020" x="1929" y="498" width="335" height="498" frameX="-69" frameY="-18" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0021" x="1584" y="1002" width="337" height="500" frameX="-58" frameY="-16" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0022" x="1584" y="501" width="330" height="501" frameX="-52" frameY="-15" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0023" x="313" y="507" width="324" height="505" frameX="-55" frameY="-11" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0024" x="313" y="507" width="324" height="505" frameX="-55" frameY="-11" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0025" x="1262" y="0" width="322" height="504" frameX="-55" frameY="-12" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0026" x="1262" y="0" width="322" height="504" frameX="-55" frameY="-12" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0027" x="1262" y="0" width="322" height="504" frameX="-55" frameY="-12" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0028" x="637" y="507" width="321" height="505" frameX="-56" frameY="-11" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Dancing Beat0029" x="637" y="507" width="321" height="505" frameX="-56" frameY="-11" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0000" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0001" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0002" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0003" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0004" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0005" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0006" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0007" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0008" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0009" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0010" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0011" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0012" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0013" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0014" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0015" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0016" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0017" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0018" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0019" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0020" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0021" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0022" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0023" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0024" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0025" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0026" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0027" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0028" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0029" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0030" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0031" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0032" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0033" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0034" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0035" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0036" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0037" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0038" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0039" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0040" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0041" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0042" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0043" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0044" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0045" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0046" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0047" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0048" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0049" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0050" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0051" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0052" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0053" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0054" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0055" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0056" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0057" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0058" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0059" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0060" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0061" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0062" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0063" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0064" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0065" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0066" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0067" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0068" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0069" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0070" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0071" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0072" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0073" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0074" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0075" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0076" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0077" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0078" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+<SubTexture name="GF Frozen0079" x="0" y="0" width="326" height="507" frameX="0" frameY="0" frameWidth="410" frameHeight="530" />
+</TextureAtlas>

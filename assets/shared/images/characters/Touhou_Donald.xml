@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="">
+<SubTexture name="TD down0000" x="0" y="0" width="332" height="385"/>
+<SubTexture name="TD down0001" x="0" y="0" width="332" height="385"/>
+<SubTexture name="TD down0002" x="332" y="0" width="332" height="385"/>
+<SubTexture name="TD down0003" x="332" y="0" width="332" height="385"/>
+<SubTexture name="TD down0004" x="665" y="0" width="332" height="385"/>
+<SubTexture name="TD down0005" x="665" y="0" width="332" height="385"/>
+<SubTexture name="TD down0006" x="997" y="0" width="332" height="385"/>
+<SubTexture name="TD down0007" x="1330" y="0" width="332" height="385"/>
+<SubTexture name="TD idle0000" x="1662" y="0" width="628" height="459"/>
+<SubTexture name="TD idle0001" x="1662" y="0" width="628" height="459"/>
+<SubTexture name="TD idle0002" x="2291" y="0" width="628" height="459"/>
+<SubTexture name="TD idle0003" x="2291" y="0" width="628" height="459"/>
+<SubTexture name="TD idle0004" x="2919" y="0" width="628" height="459"/>
+<SubTexture name="TD idle0005" x="2919" y="0" width="628" height="459"/>
+<SubTexture name="TD idle0006" x="0" y="459" width="628" height="459"/>
+<SubTexture name="TD idle0007" x="0" y="459" width="628" height="459"/>
+<SubTexture name="TD idle0008" x="628" y="459" width="628" height="459"/>
+<SubTexture name="TD idle0009" x="628" y="459" width="628" height="459"/>
+<SubTexture name="TD idle0010" x="628" y="459" width="628" height="459"/>
+<SubTexture name="TD idle0011" x="628" y="459" width="628" height="459"/>
+<SubTexture name="TD left0000" x="1257" y="459" width="541" height="393"/>
+<SubTexture name="TD left0001" x="1257" y="459" width="541" height="393"/>
+<SubTexture name="TD left0002" x="1798" y="459" width="541" height="393"/>
+<SubTexture name="TD left0003" x="1798" y="459" width="541" height="393"/>
+<SubTexture name="TD left0004" x="2339" y="459" width="541" height="393"/>
+<SubTexture name="TD left0005" x="2339" y="459" width="541" height="393"/>
+<SubTexture name="TD left0006" x="2880" y="459" width="541" height="393"/>
+<SubTexture name="TD left0007" x="3421" y="459" width="541" height="393"/>
+<SubTexture name="TD right0000" x="0" y="919" width="572" height="464"/>
+<SubTexture name="TD right0001" x="0" y="919" width="572" height="464"/>
+<SubTexture name="TD right0002" x="572" y="919" width="572" height="464"/>
+<SubTexture name="TD right0003" x="572" y="919" width="572" height="464"/>
+<SubTexture name="TD right0004" x="1145" y="919" width="572" height="464"/>
+<SubTexture name="TD right0005" x="1145" y="919" width="572" height="464"/>
+<SubTexture name="TD right0006" x="1717" y="919" width="572" height="464"/>
+<SubTexture name="TD right0007" x="2290" y="919" width="572" height="464"/>
+<SubTexture name="TD up0000" x="2862" y="919" width="625" height="604"/>
+<SubTexture name="TD up0001" x="2862" y="919" width="625" height="604"/>
+<SubTexture name="TD up0002" x="0" y="1523" width="625" height="604"/>
+<SubTexture name="TD up0003" x="0" y="1523" width="625" height="604"/>
+<SubTexture name="TD up0004" x="625" y="1523" width="625" height="604"/>
+<SubTexture name="TD up0005" x="1250" y="1523" width="625" height="604"/>
+<SubTexture name="TD up0006" x="1875" y="1523" width="625" height="604"/>
+<SubTexture name="TD up0007" x="2500" y="1523" width="625" height="604"/>
+</TextureAtlas>

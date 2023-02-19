@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Touhou BF.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TBF D miss0000" x="0" y="0" width="558" height="506" frameX="-4" frameY="-39" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0001" x="558" y="0" width="552" height="559" frameX="-10" frameY="0" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0002" x="558" y="0" width="552" height="559" frameX="-10" frameY="0" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0003" x="1110" y="0" width="573" height="529" frameX="0" frameY="-21" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0004" x="1110" y="0" width="573" height="529" frameX="0" frameY="-21" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0005" x="1683" y="0" width="573" height="531" frameX="0" frameY="-19" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0006" x="1683" y="0" width="573" height="531" frameX="0" frameY="-19" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0007" x="1110" y="0" width="573" height="529" frameX="0" frameY="-21" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0008" x="1110" y="0" width="573" height="529" frameX="0" frameY="-21" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0009" x="1683" y="0" width="573" height="531" frameX="0" frameY="-19" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0010" x="1683" y="0" width="573" height="531" frameX="0" frameY="-19" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0011" x="1110" y="0" width="573" height="529" frameX="0" frameY="-21" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0012" x="1110" y="0" width="573" height="529" frameX="0" frameY="-21" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF D miss0013" x="1683" y="0" width="573" height="531" frameX="0" frameY="-19" frameWidth="573" frameHeight="559"/>
+	<SubTexture name="TBF L miss0000" x="2256" y="0" width="543" height="490" frameX="-43" frameY="-46" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0001" x="2799" y="0" width="627" height="440" frameX="0" frameY="-81" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0002" x="2799" y="0" width="627" height="440" frameX="0" frameY="-81" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0003" x="3426" y="0" width="561" height="534" frameX="-33" frameY="-3" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0004" x="3426" y="0" width="561" height="534" frameX="-33" frameY="-3" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0005" x="0" y="559" width="561" height="537" frameX="-33" frameY="0" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0006" x="0" y="559" width="561" height="537" frameX="-33" frameY="0" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0007" x="3426" y="0" width="561" height="534" frameX="-33" frameY="-3" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0008" x="3426" y="0" width="561" height="534" frameX="-33" frameY="-3" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0009" x="0" y="559" width="561" height="537" frameX="-33" frameY="0" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0010" x="0" y="559" width="561" height="537" frameX="-33" frameY="0" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0011" x="3426" y="0" width="561" height="534" frameX="-33" frameY="-3" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0012" x="3426" y="0" width="561" height="534" frameX="-33" frameY="-3" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF L miss0013" x="0" y="559" width="561" height="537" frameX="-33" frameY="0" frameWidth="627" frameHeight="537"/>
+	<SubTexture name="TBF R miss0000" x="561" y="559" width="531" height="546" frameX="-49" frameY="-56" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0001" x="1092" y="559" width="635" height="486" frameX="0" frameY="-98" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0002" x="1092" y="559" width="635" height="486" frameX="0" frameY="-98" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0003" x="1727" y="559" width="554" height="595" frameX="-40" frameY="-2" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0004" x="1727" y="559" width="554" height="595" frameX="-40" frameY="-2" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0005" x="2281" y="559" width="554" height="597" frameX="-40" frameY="0" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0006" x="2281" y="559" width="554" height="597" frameX="-40" frameY="0" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0007" x="1727" y="559" width="554" height="595" frameX="-40" frameY="-2" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0008" x="1727" y="559" width="554" height="595" frameX="-40" frameY="-2" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0009" x="2281" y="559" width="554" height="597" frameX="-40" frameY="0" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0010" x="2281" y="559" width="554" height="597" frameX="-40" frameY="0" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0011" x="1727" y="559" width="554" height="595" frameX="-40" frameY="-2" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0012" x="1727" y="559" width="554" height="595" frameX="-40" frameY="-2" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF R miss0013" x="2281" y="559" width="554" height="597" frameX="-40" frameY="0" frameWidth="635" frameHeight="602"/>
+	<SubTexture name="TBF U miss0000" x="2835" y="559" width="537" height="564" frameX="-9" frameY="-41" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0001" x="3372" y="559" width="510" height="629" frameX="-23" frameY="0" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0002" x="3372" y="559" width="510" height="629" frameX="-23" frameY="0" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0003" x="0" y="1188" width="557" height="596" frameX="0" frameY="-21" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0004" x="0" y="1188" width="557" height="596" frameX="0" frameY="-21" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0005" x="557" y="1188" width="557" height="598" frameX="0" frameY="-19" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0006" x="557" y="1188" width="557" height="598" frameX="0" frameY="-19" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0007" x="0" y="1188" width="557" height="596" frameX="0" frameY="-21" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0008" x="0" y="1188" width="557" height="596" frameX="0" frameY="-21" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0009" x="557" y="1188" width="557" height="598" frameX="0" frameY="-19" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0010" x="557" y="1188" width="557" height="598" frameX="0" frameY="-19" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0011" x="0" y="1188" width="557" height="596" frameX="0" frameY="-21" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0012" x="0" y="1188" width="557" height="596" frameX="0" frameY="-21" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF U miss0013" x="557" y="1188" width="557" height="598" frameX="0" frameY="-19" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="TBF down0000" x="1114" y="1188" width="558" height="506" frameX="-4" frameY="0" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0001" x="1114" y="1188" width="558" height="506" frameX="-4" frameY="0" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0002" x="1672" y="1188" width="568" height="504" frameX="0" frameY="-2" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0003" x="1672" y="1188" width="568" height="504" frameX="0" frameY="-2" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0004" x="1672" y="1188" width="568" height="504" frameX="0" frameY="-2" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0005" x="1672" y="1188" width="568" height="504" frameX="0" frameY="-2" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0006" x="1672" y="1188" width="568" height="504" frameX="0" frameY="-2" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0007" x="1672" y="1188" width="568" height="504" frameX="0" frameY="-2" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0008" x="1672" y="1188" width="568" height="504" frameX="0" frameY="-2" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0009" x="1672" y="1188" width="568" height="504" frameX="0" frameY="-2" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0010" x="1672" y="1188" width="568" height="504" frameX="0" frameY="-2" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0011" x="1672" y="1188" width="568" height="504" frameX="0" frameY="-2" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0012" x="1672" y="1188" width="568" height="504" frameX="0" frameY="-2" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF down0013" x="1672" y="1188" width="568" height="504" frameX="0" frameY="-2" frameWidth="568" frameHeight="506"/>
+	<SubTexture name="TBF idle0000" x="2240" y="1188" width="578" height="513" frameX="0" frameY="-7" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0001" x="2240" y="1188" width="578" height="513" frameX="0" frameY="-7" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0002" x="2818" y="1188" width="576" height="519" frameX="-2" frameY="0" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0003" x="2818" y="1188" width="576" height="519" frameX="-2" frameY="0" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0004" x="3394" y="1188" width="570" height="497" frameX="-5" frameY="-19" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0005" x="3394" y="1188" width="570" height="497" frameX="-5" frameY="-19" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0006" x="0" y="1786" width="567" height="501" frameX="-6" frameY="-14" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0007" x="0" y="1786" width="567" height="501" frameX="-6" frameY="-14" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0008" x="567" y="1786" width="573" height="484" frameX="-3" frameY="-29" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0009" x="567" y="1786" width="573" height="484" frameX="-3" frameY="-29" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0010" x="567" y="1786" width="573" height="484" frameX="-3" frameY="-29" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0011" x="567" y="1786" width="573" height="484" frameX="-3" frameY="-29" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0012" x="567" y="1786" width="573" height="484" frameX="-3" frameY="-29" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF idle0013" x="567" y="1786" width="573" height="484" frameX="-3" frameY="-29" frameWidth="578" frameHeight="520"/>
+	<SubTexture name="TBF left0000" x="1140" y="1786" width="543" height="490" frameX="-10" frameY="-5" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0001" x="1140" y="1786" width="543" height="490" frameX="-10" frameY="-5" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0002" x="1683" y="1786" width="557" height="492" frameX="0" frameY="0" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0003" x="1683" y="1786" width="557" height="492" frameX="0" frameY="0" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0004" x="1683" y="1786" width="557" height="492" frameX="0" frameY="0" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0005" x="1683" y="1786" width="557" height="492" frameX="0" frameY="0" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0006" x="1683" y="1786" width="557" height="492" frameX="0" frameY="0" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0007" x="1683" y="1786" width="557" height="492" frameX="0" frameY="0" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0008" x="1683" y="1786" width="557" height="492" frameX="0" frameY="0" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0009" x="1683" y="1786" width="557" height="492" frameX="0" frameY="0" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0010" x="1683" y="1786" width="557" height="492" frameX="0" frameY="0" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0011" x="1683" y="1786" width="557" height="492" frameX="0" frameY="0" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0012" x="1683" y="1786" width="557" height="492" frameX="0" frameY="0" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF left0013" x="1683" y="1786" width="557" height="492" frameX="0" frameY="0" frameWidth="557" frameHeight="495"/>
+	<SubTexture name="TBF right0000" x="2240" y="1786" width="531" height="546" frameX="-9" frameY="0" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0001" x="2240" y="1786" width="531" height="546" frameX="-9" frameY="0" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0002" x="2771" y="1786" width="550" height="520" frameX="0" frameY="-17" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0003" x="2771" y="1786" width="550" height="520" frameX="0" frameY="-17" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0004" x="2771" y="1786" width="550" height="520" frameX="0" frameY="-17" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0005" x="2771" y="1786" width="550" height="520" frameX="0" frameY="-17" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0006" x="2771" y="1786" width="550" height="520" frameX="0" frameY="-17" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0007" x="2771" y="1786" width="550" height="520" frameX="0" frameY="-17" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0008" x="2771" y="1786" width="550" height="520" frameX="0" frameY="-17" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0009" x="2771" y="1786" width="550" height="520" frameX="0" frameY="-17" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0010" x="2771" y="1786" width="550" height="520" frameX="0" frameY="-17" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0011" x="2771" y="1786" width="550" height="520" frameX="0" frameY="-17" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0012" x="2771" y="1786" width="550" height="520" frameX="0" frameY="-17" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF right0013" x="2771" y="1786" width="550" height="520" frameX="0" frameY="-17" frameWidth="550" frameHeight="546"/>
+	<SubTexture name="TBF up0000" x="3321" y="1786" width="537" height="564" frameX="-9" frameY="0" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0001" x="3321" y="1786" width="537" height="564" frameX="-9" frameY="0" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0002" x="0" y="2350" width="553" height="545" frameX="0" frameY="-27" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0003" x="0" y="2350" width="553" height="545" frameX="0" frameY="-27" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0004" x="0" y="2350" width="553" height="545" frameX="0" frameY="-27" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0005" x="0" y="2350" width="553" height="545" frameX="0" frameY="-27" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0006" x="0" y="2350" width="553" height="545" frameX="0" frameY="-27" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0007" x="0" y="2350" width="553" height="545" frameX="0" frameY="-27" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0008" x="0" y="2350" width="553" height="545" frameX="0" frameY="-27" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0009" x="0" y="2350" width="553" height="545" frameX="0" frameY="-27" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0010" x="0" y="2350" width="553" height="545" frameX="0" frameY="-27" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0011" x="0" y="2350" width="553" height="545" frameX="0" frameY="-27" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0012" x="0" y="2350" width="553" height="545" frameX="0" frameY="-27" frameWidth="553" frameHeight="572"/>
+	<SubTexture name="TBF up0013" x="0" y="2350" width="553" height="545" frameX="0" frameY="-27" frameWidth="553" frameHeight="572"/>
+</TextureAtlas>

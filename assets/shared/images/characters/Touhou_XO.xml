@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Touhou_XO.png">
+<SubTexture name="TXO D miss0000" x="912" y="1072" width="438" height="522" frameX="-35" frameY="-9" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0001" x="2467" y="968" width="525" height="483" frameX="0" frameY="-39" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0002" x="2467" y="1451" width="525" height="478" frameX="0" frameY="-44" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0003" x="0" y="542" width="474" height="530" frameX="-28" frameY="0" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0004" x="0" y="1072" width="474" height="526" frameX="-28" frameY="-5" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0005" x="0" y="542" width="474" height="530" frameX="-28" frameY="0" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0006" x="0" y="1072" width="474" height="526" frameX="-28" frameY="-5" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0007" x="0" y="542" width="474" height="530" frameX="-28" frameY="0" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0008" x="0" y="1072" width="474" height="526" frameX="-28" frameY="-5" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0009" x="0" y="542" width="474" height="530" frameX="-28" frameY="0" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0010" x="0" y="1072" width="474" height="526" frameX="-28" frameY="-5" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0011" x="0" y="542" width="474" height="530" frameX="-28" frameY="0" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0012" x="0" y="1072" width="474" height="526" frameX="-28" frameY="-5" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO D miss0013" x="0" y="542" width="474" height="530" frameX="-28" frameY="0" frameWidth="525" frameHeight="533" />
+<SubTexture name="TXO L miss0000" x="535" y="2091" width="574" height="451" frameX="-18" frameY="-12" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO L miss0001" x="1883" y="1598" width="535" height="472" frameX="-35" frameY="0" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO L miss0002" x="0" y="2091" width="535" height="472" frameX="-35" frameY="0" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO L miss0003" x="599" y="2563" width="599" height="432" frameX="0" frameY="-18" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO L miss0004" x="0" y="2563" width="599" height="439" frameX="0" frameY="-11" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO L miss0005" x="599" y="2563" width="599" height="432" frameX="0" frameY="-18" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO L miss0006" x="0" y="2563" width="599" height="439" frameX="0" frameY="-11" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO L miss0007" x="599" y="2563" width="599" height="432" frameX="0" frameY="-18" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO L miss0008" x="0" y="2563" width="599" height="439" frameX="0" frameY="-11" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO L miss0009" x="599" y="2563" width="599" height="432" frameX="0" frameY="-18" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO L miss0010" x="0" y="2563" width="599" height="439" frameX="0" frameY="-11" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO L miss0011" x="599" y="2563" width="599" height="432" frameX="0" frameY="-18" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO L miss0012" x="0" y="2563" width="599" height="439" frameX="0" frameY="-11" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO L miss0013" x="599" y="2563" width="599" height="432" frameX="0" frameY="-18" frameWidth="599" frameHeight="477" />
+<SubTexture name="TXO R miss0000" x="0" y="0" width="549" height="542" frameX="-27" frameY="0" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO R miss0001" x="549" y="0" width="524" height="541" frameX="-47" frameY="-5" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO R miss0002" x="1073" y="0" width="524" height="541" frameX="-47" frameY="-5" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO R miss0003" x="1266" y="1598" width="617" height="484" frameX="0" frameY="-33" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO R miss0004" x="2467" y="0" width="617" height="484" frameX="0" frameY="-33" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO R miss0005" x="1266" y="1598" width="617" height="484" frameX="0" frameY="-33" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO R miss0006" x="2467" y="0" width="617" height="484" frameX="0" frameY="-33" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO R miss0007" x="1266" y="1598" width="617" height="484" frameX="0" frameY="-33" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO R miss0008" x="2467" y="0" width="617" height="484" frameX="0" frameY="-33" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO R miss0009" x="1266" y="1598" width="617" height="484" frameX="0" frameY="-33" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO R miss0010" x="2467" y="0" width="617" height="484" frameX="0" frameY="-33" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO R miss0011" x="1266" y="1598" width="617" height="484" frameX="0" frameY="-33" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO R miss0012" x="2467" y="0" width="617" height="484" frameX="0" frameY="-33" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO R miss0013" x="1266" y="1598" width="617" height="484" frameX="0" frameY="-33" frameWidth="617" frameHeight="548" />
+<SubTexture name="TXO U miss0000" x="474" y="542" width="316" height="530" frameX="-38" frameY="-3" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0001" x="472" y="1598" width="397" height="486" frameX="0" frameY="-23" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0002" x="869" y="1598" width="397" height="486" frameX="0" frameY="-23" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0003" x="790" y="542" width="328" height="530" frameX="-35" frameY="-1" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0004" x="1118" y="542" width="328" height="530" frameX="-35" frameY="-1" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0005" x="790" y="542" width="328" height="530" frameX="-35" frameY="-1" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0006" x="1118" y="542" width="328" height="530" frameX="-35" frameY="-1" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0007" x="790" y="542" width="328" height="530" frameX="-35" frameY="-1" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0008" x="1118" y="542" width="328" height="530" frameX="-35" frameY="-1" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0009" x="790" y="542" width="328" height="530" frameX="-35" frameY="-1" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0010" x="1118" y="542" width="328" height="530" frameX="-35" frameY="-1" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0011" x="790" y="542" width="328" height="530" frameX="-35" frameY="-1" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0012" x="1118" y="542" width="328" height="530" frameX="-35" frameY="-1" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO U miss0013" x="790" y="542" width="328" height="530" frameX="-35" frameY="-1" frameWidth="397" frameHeight="540" />
+<SubTexture name="TXO down0000" x="474" y="1072" width="438" height="523" frameX="-17" frameY="0" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0001" x="474" y="1072" width="438" height="523" frameX="-17" frameY="0" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0002" x="0" y="1598" width="472" height="493" frameX="-7" frameY="-30" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0003" x="0" y="1598" width="472" height="493" frameX="-7" frameY="-30" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0004" x="2467" y="484" width="487" height="484" frameX="0" frameY="-38" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0005" x="2467" y="484" width="487" height="484" frameX="0" frameY="-38" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0006" x="2467" y="484" width="487" height="484" frameX="0" frameY="-38" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0007" x="2467" y="484" width="487" height="484" frameX="0" frameY="-38" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0008" x="2467" y="484" width="487" height="484" frameX="0" frameY="-38" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0009" x="2467" y="484" width="487" height="484" frameX="0" frameY="-38" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0010" x="2467" y="484" width="487" height="484" frameX="0" frameY="-38" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0011" x="2467" y="484" width="487" height="484" frameX="0" frameY="-38" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0012" x="2467" y="484" width="487" height="484" frameX="0" frameY="-38" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO down0013" x="2467" y="484" width="487" height="484" frameX="0" frameY="-38" frameWidth="487" frameHeight="524" />
+<SubTexture name="TXO idle0000" x="1109" y="2091" width="520" height="450" frameX="-49" frameY="-10" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0001" x="1629" y="2091" width="355" height="450" frameX="-141" frameY="-2" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0002" x="1629" y="2091" width="355" height="450" frameX="-141" frameY="0" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0003" x="1984" y="2091" width="426" height="448" frameX="-103" frameY="-15" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0004" x="1984" y="2091" width="426" height="448" frameX="-103" frameY="-14" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0005" x="2410" y="2091" width="597" height="445" frameX="0" frameY="-27" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0006" x="2410" y="2091" width="597" height="445" frameX="0" frameY="-27" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0007" x="2410" y="2091" width="597" height="445" frameX="0" frameY="-27" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0008" x="2410" y="2091" width="597" height="445" frameX="0" frameY="-27" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0009" x="2410" y="2091" width="597" height="445" frameX="0" frameY="-27" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0010" x="2410" y="2091" width="597" height="445" frameX="0" frameY="-27" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0011" x="2410" y="2091" width="597" height="445" frameX="0" frameY="-27" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0012" x="2410" y="2091" width="597" height="445" frameX="0" frameY="-27" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO idle0013" x="2410" y="2091" width="597" height="445" frameX="0" frameY="-27" frameWidth="597" frameHeight="472" />
+<SubTexture name="TXO left0000" x="535" y="2091" width="574" height="451" frameX="0" frameY="0" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0001" x="535" y="2091" width="574" height="451" frameX="0" frameY="0" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0002" x="1198" y="2563" width="576" height="430" frameX="-11" frameY="-21" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0003" x="1198" y="2563" width="576" height="430" frameX="-11" frameY="-21" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0004" x="1774" y="2563" width="575" height="425" frameX="-14" frameY="-26" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0005" x="1774" y="2563" width="575" height="425" frameX="-14" frameY="-24" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0006" x="1774" y="2563" width="575" height="425" frameX="-14" frameY="-24" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0007" x="1774" y="2563" width="575" height="425" frameX="-14" frameY="-24" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0008" x="1774" y="2563" width="575" height="425" frameX="-14" frameY="-24" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0009" x="1774" y="2563" width="575" height="425" frameX="-14" frameY="-24" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0010" x="1774" y="2563" width="575" height="425" frameX="-14" frameY="-24" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0011" x="1774" y="2563" width="575" height="425" frameX="-14" frameY="-24" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0012" x="1774" y="2563" width="575" height="425" frameX="-14" frameY="-24" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO left0013" x="1774" y="2563" width="575" height="425" frameX="-14" frameY="-24" frameWidth="588" frameHeight="466" />
+<SubTexture name="TXO right0000" x="0" y="0" width="549" height="542" frameX="-18" frameY="0" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0001" x="0" y="0" width="549" height="542" frameX="-18" frameY="0" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0002" x="1350" y="1072" width="555" height="515" frameX="-4" frameY="-27" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0003" x="1350" y="1072" width="555" height="515" frameX="-4" frameY="-27" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0004" x="1913" y="0" width="554" height="505" frameX="0" frameY="-37" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0005" x="1913" y="0" width="554" height="505" frameX="0" frameY="-37" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0006" x="1913" y="0" width="554" height="505" frameX="0" frameY="-37" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0007" x="1913" y="0" width="554" height="505" frameX="0" frameY="-37" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0008" x="1913" y="0" width="554" height="505" frameX="0" frameY="-37" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0009" x="1913" y="0" width="554" height="505" frameX="0" frameY="-37" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0010" x="1913" y="0" width="554" height="505" frameX="0" frameY="-37" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0011" x="1913" y="0" width="554" height="505" frameX="0" frameY="-37" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0012" x="1913" y="0" width="554" height="505" frameX="0" frameY="-37" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO right0013" x="1913" y="0" width="554" height="505" frameX="0" frameY="-37" frameWidth="566" frameHeight="548" />
+<SubTexture name="TXO up0000" x="1597" y="0" width="316" height="530" frameX="-18" frameY="-2" frameWidth="349" frameHeight="544" />
+<SubTexture name="TXO up0001" x="1597" y="0" width="316" height="530" frameX="-18" frameY="-2" frameWidth="349" frameHeight="544" />
+<SubTexture name="TXO up0002" x="1913" y="505" width="331" height="505" frameX="-12" frameY="-30" frameWidth="349" frameHeight="544" />
+<SubTexture name="TXO up0003" x="1913" y="505" width="331" height="505" frameX="-12" frameY="-30" frameWidth="349" frameHeight="544" />
+<SubTexture name="TXO up0004" x="1913" y="1010" width="342" height="500" frameX="-7" frameY="-38" frameWidth="349" frameHeight="544" />
+</TextureAtlas>
