@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ronald idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				-120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ronald left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ronald down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				410
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ronald up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-96
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ronald right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				69
+			],
+			"anim": "idea",
+			"fps": 24,
+			"name": "Ronald idea",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "show",
+			"indices": [],
+			"name": "Ronald show"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ron",
+	"position": [
+		90,
+		10
+	],
+	"healthicon": "ronald",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-320,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

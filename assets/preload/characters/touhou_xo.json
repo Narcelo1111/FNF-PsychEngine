@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				-180
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TXO left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				-152
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TXO down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TXO up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TXO right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				-212
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "TXO L miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				-140
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "TXO D miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-40
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "TXO U miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				-130
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "TXO R miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				280,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "TXO idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Touhou_XO",
+	"position": [
+		80,
+		-170
+	],
+	"healthicon": "ronald",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-800,
+		-410
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

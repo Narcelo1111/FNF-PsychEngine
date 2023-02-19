@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				280,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TD idle"
+		},
+		{
+			"offsets": [
+				210,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TD left"
+		},
+		{
+			"offsets": [
+				60,
+				-339
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TD down"
+		},
+		{
+			"offsets": [
+				280,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TD up"
+		},
+		{
+			"offsets": [
+				89,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TD right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Touhou_Donald",
+	"position": [
+		-40,
+		-300
+	],
+	"healthicon": "ronald",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-300,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}
