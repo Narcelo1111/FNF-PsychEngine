@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mid-bopers.png">
+<SubTexture name="peopleback0000" x="672" y="0" width="674" height="198" frameX="0" frameY="-1" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0001" x="672" y="0" width="674" height="198" frameX="0" frameY="-1" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0002" x="0" y="0" width="672" height="199" frameX="-1" frameY="-1" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0003" x="0" y="0" width="672" height="199" frameX="-1" frameY="-1" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0004" x="0" y="199" width="671" height="199" frameX="-2" frameY="0" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0005" x="0" y="199" width="671" height="199" frameX="-2" frameY="0" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0006" x="0" y="398" width="670" height="199" frameX="-3" frameY="0" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0007" x="0" y="398" width="670" height="199" frameX="-3" frameY="0" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0008" x="0" y="398" width="670" height="199" frameX="-3" frameY="0" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0009" x="0" y="398" width="670" height="199" frameX="-3" frameY="0" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0010" x="0" y="398" width="670" height="199" frameX="-3" frameY="0" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0011" x="0" y="398" width="670" height="199" frameX="-3" frameY="0" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0012" x="0" y="398" width="670" height="199" frameX="-3" frameY="0" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0013" x="0" y="398" width="670" height="199" frameX="-3" frameY="0" frameWidth="674" frameHeight="199" />
+<SubTexture name="peopleback0014" x="0" y="398" width="670" height="199" frameX="-3" frameY="0" frameWidth="674" frameHeight="199" />
+</TextureAtlas>
