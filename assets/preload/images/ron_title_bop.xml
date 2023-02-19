@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ron title bop.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ron Dancing Beat0000" x="10" y="10" width="584" height="710" frameX="0" frameY="-44" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0001" x="10" y="10" width="584" height="710" frameX="0" frameY="-44" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0002" x="604" y="10" width="578" height="711" frameX="-4" frameY="-43" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0003" x="604" y="10" width="578" height="711" frameX="-4" frameY="-43" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0004" x="1192" y="10" width="581" height="721" frameX="-5" frameY="-34" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0005" x="1192" y="10" width="581" height="721" frameX="-5" frameY="-34" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0006" x="1783" y="10" width="580" height="732" frameX="-9" frameY="-24" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0007" x="1783" y="10" width="580" height="732" frameX="-9" frameY="-24" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0008" x="2373" y="10" width="566" height="750" frameX="-26" frameY="-7" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0009" x="2373" y="10" width="566" height="750" frameX="-26" frameY="-7" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0010" x="2949" y="10" width="557" height="761" frameX="-38" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0011" x="2949" y="10" width="557" height="761" frameX="-38" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0012" x="2949" y="10" width="557" height="761" frameX="-38" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0013" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0014" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0015" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0016" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0017" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0018" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0019" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0020" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0021" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0022" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0023" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0024" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0025" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0026" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0027" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0028" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="Ron Dancing Beat0029" x="10" y="781" width="574" height="740" frameX="-15" frameY="-17" frameWidth="595" frameHeight="761"/>
+</TextureAtlas>
