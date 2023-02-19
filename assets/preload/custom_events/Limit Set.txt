@@ -1,0 +1,7 @@
+Set the "limitLimitLol" value
+It equals the limit of sauce notes you
+can press.
+
+Value 1: limit of sauce notes you
+can press.
+Value 2: Null
