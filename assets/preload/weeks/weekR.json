@@ -1,0 +1,41 @@
+{
+	"storyName": "Vs Ronald",
+	"difficulties": "Normal,hard",
+	"hideFreeplay": false,
+	"weekBackground": "ronald",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"The Idea",
+			"ronald",
+			[
+				255,
+				33,
+				53
+			]
+		],
+		[
+			"Combo Meal",
+			"ronald",
+			[
+				255,
+				33,
+				53
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "ronald"
+}
