@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "ronald",
+		"player1": "mc-bf",
+		"player2": "ronald-lv9",
+		"player3": null,
+		"events": [
+			[
+				736.196319018405,
+				[
+					[
+						"setCameraTarget",
+						"",
+						""
+					]
+				]
+			],
+			[
+				2208.58895705521,
+				[
+					[
+						"setCameraTarget",
+						"",
+						""
+					]
+				]
+			],
+			[
+				3680.98159509202,
+				[
+					[
+						"setCameraTarget",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107852.760736196,
+				[
+					[
+						"setCameraTarget",
+						"",
+						""
+					]
+				]
+			],
+			[
+				110521.472392638,
+				[
+					[
+						"setCameraTarget",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117975.460122699,
+				[
+					[
+						"setCameraTarget",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131411.042944785,
+				[
+					[
+						"setCameraTarget",
+						"",
+						""
+					]
+				]
+			],
+			[
+				134079.754601227,
+				[
+					[
+						"setCameraTarget",
+						"",
+						""
+					]
+				]
+			],
+			[
+				140245.398773006,
+				[
+					[
+						"setCameraTarget",
+						"",
+						""
+					]
+				]
+			],
+			[
+				152024.5398773,
+				[
+					[
+						"setCameraTarget",
+						"dad",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "xo",
+		"bpm": 163,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Deaf to All but the Ron"
+	}
+}
