@@ -3,7 +3,7 @@
 
 
 function onCreate()
-    addLuaScript('script1') -- load the script
+    addLuaScript('ata/script1') -- load the script
     triggerEvent('legacyPsychMode') 
 
 
