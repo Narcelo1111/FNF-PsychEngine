@@ -3,7 +3,7 @@
 
 
 function onCreate()
-    addLuaScript('SimpleModchartTemplate') -- load the script
+    addLuaScript('script2') -- load the script
     triggerEvent('legacyPsychMode') 
 
 
