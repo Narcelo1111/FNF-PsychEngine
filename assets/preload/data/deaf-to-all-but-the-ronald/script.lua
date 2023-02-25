@@ -9,7 +9,7 @@ function onCreatePost()
         upscrollDiff = 180 --offset the angle
     end
     modchart = getPropertyFromClass('ClientPrefs', 'modcharts')
-    if difficulty == 2 then 
+    if difficulty == 1 then 
         hellMode = true
         modchart = true
     end
@@ -195,6 +195,10 @@ function onStepHit()
     if curStep == 768-4 then 
         doTweenAlpha('extraIconP1', 'extraIconP1', 1, crochet*0.001*2, 'cubeIn')
         doTweenY('iconP1', 'iconP1', getProperty('iconP1.y')+50, crochet*0.001*2, 'cubeOut')
+        setProperty('p1Name.alpha', 0)
+        setTextString('p1Name', 'Boyfriend and XO')
+        doTweenAlpha('p1Name', 'p1Name', 1, crochet*0.001*2, 'cubeIn')
+        setProperty('p1Name.x', screenWidth-160-getProperty('p1Name.width'))
         doTweenY('gf', 'gf', getProperty('gf.y')-1200, crochet*0.001*2, 'cubeOut')
     end
 
