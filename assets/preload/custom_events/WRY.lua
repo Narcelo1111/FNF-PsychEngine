@@ -7,21 +7,23 @@ function onCreatePost()
     if getPropertyFromClass('PlayState', 'SONG.player2') == 'woh' then
         wryname = 'woh_wry'
         animName = 'woh WRY'
+        facename = 'wohFace'
+        faceAnim = 'wohFace'
     end
 
     --precacheImage('ronald/2phase/frozen/'..wryname)
 
     makeAnimatedLuaSprite('wryFace','ronald/2phase/'..facename, 0, 340);
-    scaleObject('wryFace', 2, 2);
     addAnimationByPrefix('wryFace','wry',faceAnim,24,false)
+    scaleObject('wryFace', 2, 2);
     addLuaSprite('wryFace',false);
     objectPlayAnimation('wryFace', 'wry', true)
     setProperty('wryFace.alpha', 0)
 
     makeAnimatedLuaSprite('WRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY','ronald/2phase/'..wryname, 480, 420);
     addAnimationByPrefix('WRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY','wry',animName,24,false)
-    scaleObject('WRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY', 2, 2);
     addLuaSprite('WRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY',false);
+    scaleObject('WRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY', 2, 2);
     objectPlayAnimation('WRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY', 'wry', true)
     setProperty('WRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY.alpha', 0)
 
@@ -34,7 +36,7 @@ function onEvent(tag, val1, val2)
     
         setProperty('dad.alpha', 0)
 
-        runTimer('wryFaceShow', 24/24);
+        runTimer('wryFaceShow', 0);
     
         runTimer('wryThing', 28/24);
     elseif tag == 'WRYEnd' then 
@@ -51,9 +53,11 @@ function onTimerCompleted(tag)
 	--Nota stun
     if tag == 'wryThing' then
         cameraFlash('hud', 'FFFFFF', '1',true)
+        --setProperty('wryFace.alpha', 0)
+        doTweenAlpha('fadeFaceOut', 'wryFace', 0, 8/24, 'cubeIn')
     elseif tag == 'wryFaceShow' then 
         setProperty('fadeFaceIn.alpha', 0.2)
         doTweenAlpha('fadeFaceIn', 'wryFace', 1, 8/24, 'cubeOut')
-        doTweenX('faceIn', 'wryFace', 900, 18/24, 'expoOut')
+        doTweenX('faceIn', 'wryFace', 800, 18/24, 'expoOut')
     end
 end
