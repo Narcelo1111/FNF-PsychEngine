@@ -3,8 +3,8 @@
 
 
 function onCreate()
-    --addLuaScript('SimpleModchartTemplate') -- load the script
-    --triggerEvent('legacyPsychMode') 
+    addLuaScript('SimpleModchartTemplate') -- load the script
+    triggerEvent('legacyPsychMode') 
 
 
 end
@@ -16,29 +16,15 @@ function onCreatePost()
 		scrollSwitch = -520
 	end
 
-    --setProperty('incomingAngle.x', 90)
+    setProperty('incomingAngle.x', 90)
 
-    --setProperty('playerNotePathAlpha.alpha', 0.75)
-    if getPropertyFromClass('ClientPrefs', 'modcharts') then 
-        runHaxeCode([[
-            game.playfieldRenderer = new PlayfieldRenderer(game.strumLineNotes, game.notes, game);
-            game.playfieldRenderer.cameras = [game.camHUD];
-            game.add(game.playfieldRenderer);
-            game.remove(game.grpNoteSplashes);
-            game.add(game.grpNoteSplashes);
-        ]])
-
-        removeLuaSprite('theLimit', false)
-        removeLuaText('limitCounter', false)
-        addLuaSprite('theLimit',true);
-        addLuaText('limitCounter');
-    end
+    setProperty('playerNotePathAlpha.alpha', 0.75)
 
 
 end
 
 function onSongStart()--for step 0
-    --introBuzz()
+    introBuzz()
     --triggerEvent('setTimeStop', '54180', '93500')
 
    
@@ -56,7 +42,7 @@ local sectionsToNotDoMelodyThing = {0,1,2,3,44,45,46,47,48,49,50,51,52,53,54,55,
 local swapThing = 1
 
 function onStepHit()
-    --[[
+
     local doMelodyThing = true
     for i = 0,#sectionsToNotDoMelodyThing-1 do 
         if math.floor(curStep/16) == sectionsToNotDoMelodyThing[i+1] then 
@@ -187,7 +173,7 @@ function onStepHit()
             doTweenX('scale', 'scale', 0.7, stepCrochet/150, 'cubeOut')
         end
     end
-    --]]
+
     
     --add events and stuff here
 
